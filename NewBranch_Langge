@@ -1,0 +1,7 @@
+Newbranch_Langge.class
+class Langge{
+    int age;
+    double height;
+    String sex;
+    double weight;
+}
